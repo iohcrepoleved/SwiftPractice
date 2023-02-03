@@ -11,6 +11,7 @@
 		9A5A03F0298CB562007D82F4 /* 짝수와_홀수.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5A03EF298CB562007D82F4 /* 짝수와_홀수.swift */; };
 		9A5A03F4298CB84C007D82F4 /* 평균_구하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5A03F3298CB84C007D82F4 /* 평균_구하기.swift */; };
 		9A5A03F6298CB86E007D82F4 /* 자릿수_더하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5A03F5298CB86E007D82F4 /* 자릿수_더하기.swift */; };
+		9A5A03F9298CBEB3007D82F4 /* 최댓값과_최솟값.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5A03F8298CBEB3007D82F4 /* 최댓값과_최솟값.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		9A5A03EF298CB562007D82F4 /* 짝수와_홀수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "짝수와_홀수.swift"; sourceTree = "<group>"; };
 		9A5A03F3298CB84C007D82F4 /* 평균_구하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "평균_구하기.swift"; sourceTree = "<group>"; };
 		9A5A03F5298CB86E007D82F4 /* 자릿수_더하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "자릿수_더하기.swift"; sourceTree = "<group>"; };
+		9A5A03F8298CBEB3007D82F4 /* 최댓값과_최솟값.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "최댓값과_최솟값.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			isa = PBXGroup;
 			children = (
 				9A5A03F2298CB5AD007D82F4 /* Lv.1 */,
+				9A5A03F7298CBE9F007D82F4 /* Lv.2 */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -75,6 +78,14 @@
 				9A5A03F5298CB86E007D82F4 /* 자릿수_더하기.swift */,
 			);
 			path = Lv.1;
+			sourceTree = "<group>";
+		};
+		9A5A03F7298CBE9F007D82F4 /* Lv.2 */ = {
+			isa = PBXGroup;
+			children = (
+				9A5A03F8298CBEB3007D82F4 /* 최댓값과_최솟값.swift */,
+			);
+			path = Lv.2;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -150,6 +161,7 @@
 				9A5A03F0298CB562007D82F4 /* 짝수와_홀수.swift in Sources */,
 				9A5A03F6298CB86E007D82F4 /* 자릿수_더하기.swift in Sources */,
 				9A5A03EE298CB4A9007D82F4 /* 약수의_합.swift in Sources */,
+				9A5A03F9298CBEB3007D82F4 /* 최댓값과_최솟값.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
