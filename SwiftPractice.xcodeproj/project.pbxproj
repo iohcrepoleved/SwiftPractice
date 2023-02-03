@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		9A5A03EE298CB4A9007D82F4 /* 약수의_합.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5A03ED298CB4A9007D82F4 /* 약수의_합.swift */; };
 		9A5A03F0298CB562007D82F4 /* 짝수와_홀수.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5A03EF298CB562007D82F4 /* 짝수와_홀수.swift */; };
+		9A5A03F4298CB84C007D82F4 /* 평균_구하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5A03F3298CB84C007D82F4 /* 평균_구하기.swift */; };
+		9A5A03F6298CB86E007D82F4 /* 자릿수_더하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5A03F5298CB86E007D82F4 /* 자릿수_더하기.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -16,6 +18,8 @@
 		9A5A03E7298CB48F007D82F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9A5A03ED298CB4A9007D82F4 /* 약수의_합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "약수의_합.swift"; sourceTree = "<group>"; };
 		9A5A03EF298CB562007D82F4 /* 짝수와_홀수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "짝수와_홀수.swift"; sourceTree = "<group>"; };
+		9A5A03F3298CB84C007D82F4 /* 평균_구하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "평균_구하기.swift"; sourceTree = "<group>"; };
+		9A5A03F5298CB86E007D82F4 /* 자릿수_더하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "자릿수_더하기.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +71,8 @@
 			children = (
 				9A5A03ED298CB4A9007D82F4 /* 약수의_합.swift */,
 				9A5A03EF298CB562007D82F4 /* 짝수와_홀수.swift */,
+				9A5A03F3298CB84C007D82F4 /* 평균_구하기.swift */,
+				9A5A03F5298CB86E007D82F4 /* 자릿수_더하기.swift */,
 			);
 			path = Lv.1;
 			sourceTree = "<group>";
@@ -140,7 +146,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9A5A03F4298CB84C007D82F4 /* 평균_구하기.swift in Sources */,
 				9A5A03F0298CB562007D82F4 /* 짝수와_홀수.swift in Sources */,
+				9A5A03F6298CB86E007D82F4 /* 자릿수_더하기.swift in Sources */,
 				9A5A03EE298CB4A9007D82F4 /* 약수의_합.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
