@@ -48,11 +48,27 @@
 		9A5A03D8298CB48F007D82F4 /* SwiftPractice */ = {
 			isa = PBXGroup;
 			children = (
+				9A5A03F1298CB5A5007D82F4 /* Programmers */,
 				9A5A03E7298CB48F007D82F4 /* Info.plist */,
+			);
+			path = SwiftPractice;
+			sourceTree = "<group>";
+		};
+		9A5A03F1298CB5A5007D82F4 /* Programmers */ = {
+			isa = PBXGroup;
+			children = (
+				9A5A03F2298CB5AD007D82F4 /* Lv.1 */,
+			);
+			path = Programmers;
+			sourceTree = "<group>";
+		};
+		9A5A03F2298CB5AD007D82F4 /* Lv.1 */ = {
+			isa = PBXGroup;
+			children = (
 				9A5A03ED298CB4A9007D82F4 /* 약수의_합.swift */,
 				9A5A03EF298CB562007D82F4 /* 짝수와_홀수.swift */,
 			);
-			path = SwiftPractice;
+			path = Lv.1;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
