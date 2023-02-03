@@ -7,6 +7,6 @@
 
 import Foundation
 
-func solution(_ s:String) -> String {
+func solution1(_ s:String) -> String {
     return "\(s.split(separator:" ").map{Int($0)!}.min()!) \(s.split(separator:" ").map{Int($0)!}.max()!)"
 }
