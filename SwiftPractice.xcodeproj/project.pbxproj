@@ -18,6 +18,7 @@
 		9AF8EB982990B00F008F6E52 /* 숫자_문자열과_영단어.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AF8EB972990B00F008F6E52 /* 숫자_문자열과_영단어.swift */; };
 		9AF8EB9A2990BC31008F6E52 /* 캐릭터의_좌표.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AF8EB992990BC31008F6E52 /* 캐릭터의_좌표.swift */; };
 		9AF8EBBA29927592008F6E52 /* 이진수_더하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AF8EBB929927592008F6E52 /* 이진수_더하기.swift */; };
+		9AF8EBBC29934010008F6E52 /* 신규_아이디_추천.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AF8EBBB29934010008F6E52 /* 신규_아이디_추천.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		9AF8EB972990B00F008F6E52 /* 숫자_문자열과_영단어.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "숫자_문자열과_영단어.swift"; sourceTree = "<group>"; };
 		9AF8EB992990BC31008F6E52 /* 캐릭터의_좌표.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "캐릭터의_좌표.swift"; sourceTree = "<group>"; };
 		9AF8EBB929927592008F6E52 /* 이진수_더하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "이진수_더하기.swift"; sourceTree = "<group>"; };
+		9AF8EBBB29934010008F6E52 /* 신규_아이디_추천.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "신규_아이디_추천.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 				9AF8EB972990B00F008F6E52 /* 숫자_문자열과_영단어.swift */,
 				9AF8EB992990BC31008F6E52 /* 캐릭터의_좌표.swift */,
 				9AF8EBB929927592008F6E52 /* 이진수_더하기.swift */,
+				9AF8EBBB29934010008F6E52 /* 신규_아이디_추천.swift */,
 			);
 			path = Lv.1;
 			sourceTree = "<group>";
@@ -181,6 +184,7 @@
 				9A5A044B298E8178007D82F4 /* 문자열_나누기.swift in Sources */,
 				9A5A03F4298CB84C007D82F4 /* 평균_구하기.swift in Sources */,
 				9A5A03F0298CB562007D82F4 /* 짝수와_홀수.swift in Sources */,
+				9AF8EBBC29934010008F6E52 /* 신규_아이디_추천.swift in Sources */,
 				9A5A047A298FC0A6007D82F4 /* 가장_가까운_같은_글자.swift in Sources */,
 				9A5A03F6298CB86E007D82F4 /* 자릿수_더하기.swift in Sources */,
 				9A5A03EE298CB4A9007D82F4 /* 약수의_합.swift in Sources */,
